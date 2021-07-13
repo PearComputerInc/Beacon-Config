@@ -1,0 +1,5 @@
+{
+  "VERSION": "1.0"
+  ,"PLATFORM": "com.pastatv.pear.json"
+  ,"SYNTAX": "FUNCTION[TXT_NUM_OR_OTHER]{JSON_DATA}"
+}
